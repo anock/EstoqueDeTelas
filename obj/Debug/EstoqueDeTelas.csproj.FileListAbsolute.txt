@@ -1,0 +1,14 @@
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\bin\Debug\EstoqueDeTelas.exe.config
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\bin\Debug\EstoqueDeTelas.exe
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\bin\Debug\EstoqueDeTelas.pdb
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\obj\Debug\EstoqueDeTelas.csprojResolveAssemblyReference.cache
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\obj\Debug\EstoqueDeTelas.Menu.resources
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\obj\Debug\EstoqueDeTelas.Properties.Resources.resources
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\obj\Debug\EstoqueDeTelas.csproj.GenerateResource.Cache
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\obj\Debug\EstoqueDeTelas.exe
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\obj\Debug\EstoqueDeTelas.pdb
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\bin\Debug\estoque.accdb
+c:\users\anockshadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\obj\Debug\EstoqueDeTelas.Cadastro.resources
+C:\Users\AnockShadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\bin\Debug\MetroFramework.dll
+C:\Users\AnockShadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\obj\Debug\EstoqueDeTelas.Estoque.resources
+C:\Users\AnockShadow\documents\visual studio 2015\Projects\EstoqueDeTelas\EstoqueDeTelas\obj\Debug\EstoqueDeTelas.Venda.resources
